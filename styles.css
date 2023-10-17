@@ -1,0 +1,56 @@
+.ppal{
+    width: 700px;
+    height: 800px;
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+    border: black solid 2px;
+}
+.head {
+    width: 700px;
+    height: 100px;
+    display: flex;
+    flex-flow: row;
+}
+h3.h3-titulo {
+    margin-top: 27px;
+    margin-bottom: 5px;
+}
+p.p-titulo {
+    margin-top: 0px;
+}
+.imgHTML {
+    width: 100px;
+    height: 100px;
+}
+ .imagen1 {
+    height: 40px;
+    width: 40px;
+    padding: 30px;
+}
+.setting{
+    margin-top: 40px;
+    margin-left: 500px;
+}
+.imagen .imagen2 {
+    width: 700px;
+    height: 400px;
+}
+.texto {
+    width: 700px;
+    height: 300px;
+}
+.iconos{
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 700px;
+    height: 50px;
+    display: flex;
+    flex-flow: row;
+}
+.icono-sec{
+    margin-left: 530px;
+}
+.comentarios{
+    padding: 10px;
+}
